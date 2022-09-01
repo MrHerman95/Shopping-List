@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Shopping List</string>
+
+    <string name="fab_add_shop_item">Add new shop item</string>
+    <string name="tools_shop_item_name_str">Napkins</string>
+    <string name="tools_shop_item_count_str">1</string>
+
+    <string name="edit_text_name">Name:</string>
+    <string name="edit_text_count">Count:</string>
+    <string name="save_button">save</string>
+    <string name="error_input_name">Invalid name</string>
+    <string name="error_input_count">Invalid count</string>
+</resources>
